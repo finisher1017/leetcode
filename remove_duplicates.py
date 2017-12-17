@@ -4,5 +4,5 @@ for i in nums:
 	if i == mem:
 		nums.remove(i)
 
-print(nums)
+print(len(nums))
 
